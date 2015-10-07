@@ -1,0 +1,2 @@
+# SPIGOT-mc
+SPIGOT_mc MInECRAFT
